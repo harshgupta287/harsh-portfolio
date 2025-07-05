@@ -8,7 +8,7 @@ Feel free to explore and get in touch. 🚀
 
 ## 🔗 Live Website
 
-🌐 [harshgupta.dev](https://your-deployed-site-link.com)
+🌐 [harshgupta.dev](https://harshgupta287.github.io/harsh-portfolio/)
 
 ---
 
