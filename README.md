@@ -1,4 +1,4 @@
-# 💼 Harsh Gupta - Personal Portfolio
+# 💼 Harsh Gupta - Portfolio
 
 Welcome to my personal portfolio website! This space showcases my journey, achievements, and projects.
 
