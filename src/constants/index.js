@@ -22,6 +22,7 @@ import {
   whatsapp,
   health,
   dynamic,
+  blog
 } from "../assets";
 
 export const navLinks = [
@@ -147,6 +148,29 @@ const experiences = [
 ];
 
 const projects = [
+  {
+    name: "Blog Application",
+    description:
+      "A Blog Application is to build a full-featured MERN stack platform where users can share their thoughts, read posts, and interact with others through features like categories, search, likes, and comments.",
+
+    tags: [
+      {
+        name: "mern",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "cloudinary",
+        color: "green-text-gradient",
+      },
+      {
+        name: "firebase",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: blog,
+    source_code_link:
+      "https://github.com/harshgupta287/Blogs",
+  },
   {
     name: "Chatty",
     description:

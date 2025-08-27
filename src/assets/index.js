@@ -24,6 +24,7 @@ import threejs from "./tech/threejs.svg";
 import degree from "./company/degree.jpg";
 
 import chatty from "./chatty.jpg";
+import blog from "./blog.jpg";
 import news from "./news.jpg";
 import whatsapp from "./whatsapp.jpg";
 import health from "./health.jpg";
@@ -57,4 +58,5 @@ export {
   whatsapp,
   health,
   dynamic,
+  blog
 };
